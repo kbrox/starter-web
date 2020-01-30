@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together. 
-Adding a line for rebasing exp.
+Adding a line for rebasing exp, then
+more changes from myfeature too
 
 ## Introduction
 
