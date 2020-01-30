@@ -15,6 +15,7 @@ This is a simple web project
 
 ## How to Contribute 
 I really dont know 
+Fork tthis repository
 
 ## Copyright notice
 its ok !
