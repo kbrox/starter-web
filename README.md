@@ -15,3 +15,5 @@ This is a simple web project
 
 ## How to Contribute 
 I really dont know 
+
+## Copyright notice
