@@ -21,3 +21,4 @@ Fork tthis repository
 
 ## Copyright notice
 its ok !
+all rights reserved 
